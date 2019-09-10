@@ -1,0 +1,1 @@
+{"nodes": "freebase_mtr100_mte100-entities.txt", "edges": "freebase_mtr100_mte100-relations.txt", "train": "freebase_mtr100_mte100-train.txt", "dev": "freebase_mtr100_mte100-valid.txt", "test": "freebase_mtr100_mte100-test.txt"}

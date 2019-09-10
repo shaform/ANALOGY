@@ -1,0 +1,1 @@
+{"nodes": "wordnet-mlj12-entities.txt", "edges": "wordnet-mlj12-relations.txt", "train": "wordnet-mlj12-train.txt", "dev": "wordnet-mlj12-valid.txt", "test": "wordnet-mlj12-test.txt"}
